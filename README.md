@@ -1,4 +1,4 @@
-# Toshi Size Chart
+# Swim Baby Size Chart
 
 A size chart in HTML for Shopify
 
