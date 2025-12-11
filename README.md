@@ -4,8 +4,8 @@ A size chart in HTML for Shopify
 
 ## 🔗 Live Pages
 
-- **[Table Layout (Recommended)](https://boomercoded.github.io/toshi-size-chart/swim-baby-size-chart-table.html)** - Clean horizontal table with sticky headers
-- **[Original Card Layout](https://boomercoded.github.io/toshi-size-chart/swim-baby-size-chart.html)** - Vertical cards with custom illustrations
+- **[Card Layout (Recommended)](https://boomercoded.github.io/toshi-size-chart/swim-baby-size-chart.html)** - Vertical cards with custom illustrations
+- **[Table Layout (Prototype)](https://boomercoded.github.io/toshi-size-chart/swim-baby-size-chart-table.html)** - Clean horizontal table with sticky headers
 
 ## Features
 
